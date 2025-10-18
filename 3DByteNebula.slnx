@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="3DByteNebula/3DByteNebula.vcxproj" Id="c82dfb3b-20cf-4f65-a7a7-6a10bdd688fb" />
+</Solution>
