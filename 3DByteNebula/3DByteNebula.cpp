@@ -5,6 +5,12 @@
  * Co-author: Gemini
  * Date: October 18, 2025
  * Environment: C++17, Visual Studio 2022/2026
+ # ElevenValueBoolean
+
+**Author:** Cadell Richard Anderson  
+**License:** Custom License: ElevenValueBoolean Attribution License (EAL) v1.0
+**Version:** 0.2  
+**Date:** July 2025
  *
  * --- DESCRIPTION OF ENHANCEMENTS (V5) ---
  * This version introduces a parallel simulation layer for subatomic particle physics,
