@@ -1,5 +1,13 @@
 # 3DByteNebula
 
+# ElevenValueBoolean
+
+**Author:** Cadell Richard Anderson  
+**License:** Custom License: ElevenValueBoolean Attribution License (EAL) v1.0
+**Version:** 0.2  
+**Date:** July 2025
+
+
 The simulation uses a set of initial conditions and physics-based rules (approximations of gravity, thermodynamics, nuclear forces, etc.). As it runs, it produces a continuous stream of complex, emergent data in the form of event logs to the console ([EVENT: DECAY], [EVENT: SYNTHESIS], [EVENT: ANNIHILATION], etc.). This output is a "bit stream" generated not randomly, but as a result of the simulated physical processes, including fusion. You've essentially created a virtual machine for producing physics-based information.
 
 A Universe in a File: A Detailed Synopsis 🌌
